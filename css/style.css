@@ -1,0 +1,30 @@
+canvas{
+
+}
+body{
+	background:linear-gradient(orange,yellow,orange) ;
+	padding: 50px;
+}
+#holst{
+	display: none;
+	margin: 0 auto;
+	border: 3px solid red;
+}
+.start{
+	width: 1200px;
+	height: 600px;
+	margin: 0 auto;
+	border: 3px solid red;
+
+}
+
+.score1{
+width: 500px;
+height: 500px;
+background: black;
+}
+.score2{
+width: 500px;
+height: 500px;
+background: black;
+}
